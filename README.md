@@ -94,4 +94,4 @@ Cape Peninsula University of Technology
 
 
 ## 🎥 Mock Interview Video
--
+-https://github.com/222765208/222765208.github.io/blob/a634a40c85dac58212a6e2c93bcd928462feeafe/Sinazo-Mock%20interview-Video.mp4
