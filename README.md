@@ -13,7 +13,7 @@
 ## 📌 About Me
 Final-year Diploma in ICT (Applications Development) student seeking Work Integrated Learning (WIL) placement in Data Analysis.
 
-I have a strong foundation in SQL, database design, and Microsoft Excel. I enjoy transforming raw data into meaningful insights that support decision-making. I am detail-oriented, analytical, and eager to grow in a professional environment.
+I have a strong foundation in SQL, database design, and Microsoft Excel. I enjoy transforming raw data into meaningful insights that support decision-making. I am detail-oriented, analytical and eager to grow in a professional environment.
 
 
 
@@ -31,8 +31,7 @@ I have a strong foundation in SQL, database design, and Microsoft Excel. I enjoy
 
 ## 📂 Projects
 
-### 🏠 Student Residence App
-**Overview:**  
+### 🏠 Student Residence App  
 A system designed to manage student housing applications and room allocation.
 
 **Features:**
@@ -46,7 +45,7 @@ A system designed to manage student housing applications and room allocation.
 
 
 ### 📚 Library Management System
-**Overview:**  
+
 A system used to manage books and student borrowing records.
 
 **Features:**
