@@ -28,36 +28,6 @@ I have a strong foundation in SQL, database design, and Microsoft Excel. I enjoy
 | Other              | Problem Solving, Critical Thinking |
 
 
-
-## 📂 Projects
-
-### 🏠 Student Residence App  
-A system designed to manage student housing applications and room allocation.
-
-**Features:**
-- User registration and login  
-- Room allocation system  
-- Database integration  
-
-**Tech Stack:** Java (GUI), MySQL  
-
--https://github.com/Sinazo35/StudentResidenceApp.git
-
-
-### 📚 Library Management System
-
-A system used to manage books and student borrowing records.
-
-**Features:**
-- Book tracking  
-- User management  
-- Borrowing & returns  
-
-**Tech Stack:** Java, SQL  
-
--https://github.com/Sinazo35/Library-System.git
-
-
 ## 🎓 Education
 
 **High School**  
@@ -68,16 +38,15 @@ Zwelinzima S S S, KwaZulu-Natal
 Cape Peninsula University of Technology  
 📅 2022 – Present  
 
-
-
 ## 🌍 Languages
+
 - English  
 - Zulu  
 - Xhosa  
 
 
-
 ## 🎯 Interests
+
 - Statistical Analysis  
 - Reading Tech Blogs  
 - Problem-Solving (Puzzles)
