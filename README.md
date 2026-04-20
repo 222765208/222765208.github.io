@@ -1,5 +1,5 @@
 # 222765208.github.io
-#Curriculum Vitae
+
 <h1 align="center">👩‍💻 Sinazo Ntsimbi</h1>
 <h3 align="center">Aspiring Data Analyst | ICT Applications Development Student</h3>
 
