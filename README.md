@@ -114,7 +114,7 @@ I needed to publish my portfolio using GitHub Pages so that it could be accessed
 My task was to deploy my portfolio successfully and ensure everything displays correctly online.
 
 **Action:**  
-At first, I wasn’t completely sure how GitHub Pages works but I followed the setup steps from our study guide and enabled it in my repository. After publishing, I continued editing my portfolio directly on GitHub and checking how the updates appeared online.
+At first, I wasn’t completely sure how GitHub Pages works but I followed the setup steps from our subject guide and enabled it in my repository. After publishing, I continued editing my portfolio directly on GitHub and checking how the updates appeared online.
 
 **Result:**  
 I successfully published my portfolio and gained a better understanding of how GitHub Pages works. It felt rewarding to see my work live online and I now feel more confident using GitHub to showcase my projects.
