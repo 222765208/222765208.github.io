@@ -24,7 +24,7 @@ I have a strong foundation in SQL, database design, Power BI and Microsoft Excel
 |--------------------|--------|
 | Data Analysis      | Data Cleaning, Interpretation |
 | Databases          | SQL, MySQL |
-| Tools              | Excel, Git, GitHub |
+| Tools              | Excel, Git, GitHub, Power BI|
 | Programming        | Java |
 | Other              | Problem Solving, Critical Thinking |
 ## Projects
