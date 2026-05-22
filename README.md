@@ -14,7 +14,7 @@
 ## 📌 About Me
 Final-year Diploma in ICT (Applications Development) student seeking Work Integrated Learning (WIL) placement in Data Analysis.
 
-I have a strong foundation in SQL, database design, and Microsoft Excel. I enjoy transforming raw data into meaningful insights that support decision-making. I am detail-oriented, analytical and eager to grow in a professional environment.
+I have a strong foundation in SQL, database design, Power BI and Microsoft Excel. I enjoy transforming raw data into meaningful insights that support decision-making. I am detail-oriented, analytical and eager to grow in a professional environment.
 
 
 
