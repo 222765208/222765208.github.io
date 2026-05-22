@@ -27,7 +27,12 @@ I have a strong foundation in SQL, database design, and Microsoft Excel. I enjoy
 | Tools              | Excel, Git, GitHub |
 | Programming        | Java |
 | Other              | Problem Solving, Critical Thinking |
+## Projects
 
+| Project | Description | Type |
+|---|---|---|
+| Student Residence App | Residence management system developed as a group academic project. | Group Project |
+| Grocery Price Analysis | Personal data analysis project exploring grocery price trends. | Personal Project |
 
 ## 🎓 Education
 
