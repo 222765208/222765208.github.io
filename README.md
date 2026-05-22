@@ -31,7 +31,7 @@ I have a strong foundation in SQL, database design, and Microsoft Excel. I enjoy
 
 | Project | Description | Type |
 |---|---|---|
-| Student Residence App | Residence management system developed as a group academic project.https://github.com/Sinazo35/StudentResidenceApp.git| Group Project |
+| Student Residence App | Residence management system developed as a group academic project. https://github.com/Sinazo35/StudentResidenceApp.git| Group Project |
 | Grocery Price Analysis | Personal data analysis project exploring grocery price trends. https://github.com/Sinazo35/Grocery-Price-Analysis.git| Personal Project |
 
 ## 🎓 Education
