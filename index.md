@@ -176,6 +176,20 @@ The project provided an opportunity to apply workplace skills such as Agile plan
 
 ## Agile Assessment — Portfolio of Evidence
 
+### Second Assessment — Evidence and STAR Reflections
+
+The assessment is organised into five sections, each with a dedicated **Evidence** page and a separate **STAR Reflection**, following the structure of the reference portfolio. The original assessment content is also available below on this page.
+
+| Assessment section | Evidence | Reflection |
+|:--|:--|:--|
+| **1. Agile Team Charter** | [View evidence](01-agile-team-charter/evidence.md) | [STAR reflection](01-agile-team-charter/reflection.md) |
+| **2. User Stories and Tasks** | [View evidence](02-user-stories-and-tasks/evidence.md) | [STAR reflection](02-user-stories-and-tasks/reflection.md) |
+| **3. Product Backlog** | [View evidence](03-product-backlog/evidence.md) | [STAR reflection](03-product-backlog/reflection.md) |
+| **4. Sprint Backlog** | [View evidence](04-sprint-backlog/evidence.md) | [STAR reflection](04-sprint-backlog/reflection.md) |
+| **5. Agile Logbook** | [View evidence](05-agile-logbook/evidence.md) | [STAR reflection](05-agile-logbook/reflection.md) |
+
+
+
 ### Supporting Agile documents — Read online or download
 
 | Document | Read online | Download Markdown |
