@@ -47,7 +47,13 @@ Agile Lead and Product Owner representation are **proposed** and require team co
 **Commitment:** Signatures/agreements for Sinazo Ntsimbi, Vumani Kamanga and Aliziwe Ncoko remain pending confirmation.
 
 ### Personal reflection — Team Charter (draft for review)
-The charter helped me understand why clear responsibilities, communication and shared expectations matter. My technical role involved integration, testing and deployment. I learned that assigning responsibilities on paper is not enough: the team also needs regular progress updates and evidence of contributions. In future I would agree on deliverables and review workload at every sprint planning meeting.
+**Situation:** Our three-member team needed a shared understanding of responsibilities while developing Shezz-App.
+
+**Task:** I needed to clarify how my software-development responsibilities would connect with Vumani's frontend work and Aliziwe's UI/UX work.
+
+**Action:** The charter documented our proposed roles, WhatsApp communication, Trello tracking, GitHub collaboration, decision-making, Definition of Done and project risks. My reported work included integration, testing and deployment; the charter itself does not prove that all planned responsibilities were completed.
+
+**Result:** We have a written framework for coordinating the project and reviewing workload. I learned that an agreed charter should be checked against actual contributions and updated when responsibilities change. The team commitment signatures remain unconfirmed.
 
 ## 2. User Stories and Tasks
 
@@ -71,7 +77,13 @@ The charter helped me understand why clear responsibilities, communication and s
 **Task breakdown:** Sinazo — backend logic, database, API integration, testing and deployment; Vumani — forms, service cards, status screens and responsive PWA frontend; Aliziwe — wireframes, layouts, usability, accessibility and visual checks.
 
 ### Personal reflection — User Stories and Tasks (draft for review)
-Writing features from the customer's perspective made the technical requirements easier to understand. Breaking each story into design, frontend and backend tasks also showed where our work depended on one another. I learned to connect each feature to an acceptance criterion rather than treating coding alone as proof that a feature is finished.
+**Situation:** Shezz-App had several connected customer features, including bookings, hairstyle offers and loyalty rewards.
+
+**Task:** I needed to translate those features into understandable user requirements and technical tasks.
+
+**Action:** The backlog records 12 user stories and separates backend, frontend and UI/UX responsibilities. I linked the stories to proposed acceptance criteria, such as showing booking errors and offer responses.
+
+**Result:** The breakdown provides a clearer plan for implementation and review. I learned to describe what a user needs before deciding how to build it. These task allocations are plans and must not be mistaken for verified completion.
 
 ## 3. Product Backlog
 
@@ -81,7 +93,13 @@ The 12 prioritised stories above form the Product Backlog. The supplied document
 **Acceptance criteria:** Booking must handle valid and unavailable slots; offers must capture a photo and proposed price and display a stylist response; only verified completed visits count toward demo loyalty rewards; key screens must work on mobile; release requires integration tests, documentation and deployment checks.
 
 ### Personal reflection — Product Backlog (draft for review)
-The Product Backlog helped organise a large application into manageable priorities. Booking and offers were important customer journeys, while testing, deployment and documentation supported the release. I learned to keep unfinished work visible instead of moving cards to Completed without evidence.
+**Situation:** We needed a way to organise all required features without losing track of unfinished work.
+
+**Task:** My task was to help keep development requirements visible and prioritised.
+
+**Action:** The supplied taskboard places US01–US12 under Product Backlog, leaving In Progress and Completed empty. It also records possible bottlenecks such as integration and deployment configuration.
+
+**Result:** The backlog gives the team a shared overview of intended work. I learned that transparent task status is more useful than marking tasks completed without supporting evidence.
 
 ## 4. Sprint Backlog
 
@@ -98,7 +116,13 @@ The Product Backlog helped organise a large application into manageable prioriti
 These are **proposed sprint assignments** from the supplied document. They should not be presented as completed without corroboration.
 
 ### Personal reflection — Sprint Backlog (draft for review)
-The sprint allocation showed how work could be shared across development, frontend and UI/UX. It also showed that integration could become a bottleneck if dependent tasks were delayed. I learned the importance of realistic estimates, daily updates and reviewing blockers early.
+**Situation:** The team needed to plan coordinated work during 12–16 October 2026.
+
+**Task:** We needed a daily division of tasks across software development, frontend and UI/UX.
+
+**Action:** The supplied sprint plan assigns proposed daily work to Sinazo, Vumani and Aliziwe, from requirements and designs through integration, testing and deployment checks.
+
+**Result:** The plan shows dependencies and where integration could delay other work. I learned to schedule testing and deployment preparation alongside development. The dates and allocations remain proposed until checked against actual work records.
 
 ## 5. Agile Logbook
 
@@ -117,7 +141,21 @@ The sprint allocation showed how work could be shared across development, fronte
 **Walkthrough questions:** What is needed to advance the work? Prioritise booking and offers, connect design to frontend/backend tasks and test the customer journey. Is untracked work happening? Compare WhatsApp updates to Trello cards. What remains? Integration, responsive testing, deployment checks and screenshots. What blocks progress? Potential API/database configuration, integration, device compatibility and time limitations.
 
 ### Personal reflection — Agile Logbook (draft for review)
-The logbook format helped me think about progress, next steps and obstacles rather than only the final result. I learned that short, accurate daily notes can make delays easier to understand and support sprint retrospectives. I would improve my record keeping by attaching dates and links to commits, screenshots or Trello updates as the work happens.
+**Situation:** Our project required regular progress tracking and early identification of obstacles.
+
+**Task:** I needed to document what was completed, what would happen next and any blockers.
+
+**Action:** The supplied logbook contains draft stand-up entries for 12–16 October, noting authentication, booking, offers, testing and deployment risks. I have kept them labelled as drafts because the document explicitly requests confirmation against actual work.
+
+**Result:** The logbook provides a structure for reviewing progress, but not yet verified proof of daily activity. I learned to capture dated evidence during each sprint rather than reconstructing it later.
+
+## Communication evidence — WhatsApp group screenshot
+
+The supplied screenshot shows the **BG Capaciti** WhatsApp group discussing whether a salon is an SME on **17 October 2026**. This supports evidence of team communication and business-context discussion, **not** proof of a daily stand-up, a completed sprint task or agreement to the charter.
+
+![WhatsApp group communication evidence — redacted screenshot](evidence/communication-whatsapp-redacted.png)
+
+**Privacy note:** The original screenshot includes participants' telephone numbers. A redacted copy must be uploaded at the image path above before this image can appear publicly. Do not upload the unredacted screenshot.
 
 ## Evidence gallery — links and records
 
