@@ -145,6 +145,26 @@ The project provided an opportunity to apply workplace skills such as Agile plan
 
 **Project links:** [Live Shezz-App](https://shezz-app.onrender.com/) · [Source code](https://github.com/Sinazo35/Shezz-App) · [Trello board](https://trello.com/b/2LkNDskU/shezz-app)
 
+### Shezz-App Technology Stack
+
+The technologies below are based on the [Shezz-App source repository](https://github.com/Sinazo35/Shezz-App), including its `package.json`, deployment configuration and project documentation.
+
+| Layer | Technology | Role in Shezz-App |
+|:--|:--|:--|
+| **Frontend** | React 19, JavaScript, HTML, CSS | Responsive customer-facing salon interface |
+| **Build tool** | Vite 6 | Local development and production frontend builds |
+| **Backend / server** | Node.js, JavaScript ES modules | Serves the app and handles server-side chatbot requests |
+| **AI assistant** | OpenAI Responses API (optional) | Generates chat replies when a server-side API key is configured; built-in FAQ replies are the fallback |
+| **Data storage** | Browser localStorage | Demo bookings, offers, consent and loyalty data; not shared securely between devices |
+| **Database groundwork** | Supabase / PostgreSQL | Optional SQL and API groundwork in the repository; **not connected to the current customer booking workflow** |
+| **Hosting** | Render | Builds and hosts the deployed web application |
+| **Mobile installation** | Progressive Web App (PWA) | App manifest, service worker and home-screen installation support |
+| **Other libraries** | Lucide React, QRCode | Interface icons and demonstration QR-code rewards |
+| **Version control** | Git and GitHub | Source-code management and project collaboration |
+
+**Current scope:** Shezz-App is an installable demonstration PWA. Its bookings, payments and rewards are not production-ready, and the optional AI integration requires a configured server-side key.
+
+
 ## 📘 Shezz-App — Agile Assessment 2 (October 2026)
 
 **Project:** [Shezz-App](https://github.com/Sinazo35/Shezz-App) · **Trello:** [Sprint and Product Backlog](https://trello.com/b/2LkNDskU/shezz-app) · **Deployment:** [Live Application](https://shezz-app.onrender.com/)
