@@ -124,3 +124,34 @@ At first, I wasn’t completely sure how GitHub Pages works but I followed the s
 **Result:**  
 I successfully published my portfolio and gained a better understanding of how GitHub Pages works. It felt rewarding to see my work live online and I now feel more confident using GitHub to showcase my projects.
 
+
+
+---
+
+## 📘 Shezz-App — Agile Assessment 2 (October 2026)
+
+**Project:** [Shezz-App](https://github.com/Sinazo35/Shezz-App) · **Trello:** [Sprint and Product Backlog](https://trello.com/b/DmrNiPvG/shezz-salon-pp) · **Deployment:** [Live Application](https://shezz-app.onrender.com/)
+
+This section documents my individual learning and evidence from the Shezz-App team project. It includes the Agile Team Charter, User Stories and Tasks, Product Backlog, Sprint Backlog, Agile Logbook, and reflections for each assessment component.
+
+### Assessment evidence and reflections
+
+| Component | Evidence included |
+|---|---|
+| **Agile Team Charter** | Team purpose, members, roles, agreements, risks, Definition of Done, personal reflection |
+| **User Stories and Tasks** | 12 customer-focused user stories, task responsibilities, personal reflection |
+| **Product Backlog** | Prioritised stories and acceptance criteria, personal reflection |
+| **Sprint Backlog** | Proposed daily allocations for 12–16 October 2026, personal reflection |
+| **Agile Logbook** | Draft stand-up records, blockers and next steps, personal reflection |
+
+### 📖 [Read the full Agile Assessment Portfolio](SHEZZ_ASSESSMENT_MARKDOWN.md)
+
+The full Markdown document contains the evidence and reflections as readable text, not just download links. Proposed work and draft logbook entries are clearly identified for verification before assessment submission.
+
+### Evidence links
+
+- [Shezz-App GitHub code and commits](https://github.com/Sinazo35/Shezz-App)
+- [Trello project board](https://trello.com/b/DmrNiPvG/shezz-salon-pp)
+- [Live deployment on Render](https://shezz-app.onrender.com/)
+
+**Supporting Word documents:** The completed Team Charter and Product Backlog/Agile Logbook still need to be uploaded as files to the repository before document download links can be enabled.
