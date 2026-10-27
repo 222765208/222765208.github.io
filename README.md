@@ -134,11 +134,11 @@ I successfully published my portfolio and gained a better understanding of how G
 
 The project provided an opportunity to apply workplace skills such as Agile planning, teamwork, communication, UI/UX design, frontend and backend development, testing, and deployment. Our three-member team included **Sinazo Ntsimbi (Software Developer)**, **Vumani Kamanga (Frontend Developer)**, and **Aliziwe Ncoko (UI/UX Designer)**. My technical contribution included application integration, testing, troubleshooting and deployment.
 
-**Project links:** [Live Shezz-App](https://shezz-app.onrender.com/) · [Source code](https://github.com/Sinazo35/Shezz-App) · [Trello board](https://trello.com/b/DmrNiPvG/shezz-salon-pp)
+**Project links:** [Live Shezz-App](https://shezz-app.onrender.com/) · [Source code](https://github.com/Sinazo35/Shezz-App) · [Trello board](https://trello.com/b/2LkNDskU/shezz-app)
 
 ## 📘 Shezz-App — Agile Assessment 2 (October 2026)
 
-**Project:** [Shezz-App](https://github.com/Sinazo35/Shezz-App) · **Trello:** [Sprint and Product Backlog](https://trello.com/b/DmrNiPvG/shezz-salon-pp) · **Deployment:** [Live Application](https://shezz-app.onrender.com/)
+**Project:** [Shezz-App](https://github.com/Sinazo35/Shezz-App) · **Trello:** [Sprint and Product Backlog](https://trello.com/b/2LkNDskU/shezz-app) · **Deployment:** [Live Application](https://shezz-app.onrender.com/)
 
 This section documents my individual learning and evidence from the Shezz-App team project. It includes the Agile Team Charter, User Stories and Tasks, Product Backlog, Sprint Backlog, Agile Logbook, and reflections for each assessment component.
 
@@ -159,7 +159,7 @@ The full Markdown document contains the evidence and reflections as readable tex
 ### Evidence links
 
 - [Shezz-App GitHub code and commits](https://github.com/Sinazo35/Shezz-App)
-- [Trello project board](https://trello.com/b/DmrNiPvG/shezz-salon-pp)
+- [Trello project board](https://trello.com/b/2LkNDskU/shezz-app)
 - [Live deployment on Render](https://shezz-app.onrender.com/)
 
 
