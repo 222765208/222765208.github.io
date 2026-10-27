@@ -20,13 +20,18 @@ I have a strong foundation in SQL, database design, Power BI and Microsoft Excel
 
 ## 🛠️ Technical Skills
 
-| Category            | Skills |
-|--------------------|--------|
-| Data Analysis      | Data Cleaning, Interpretation |
-| Databases          | SQL, MySQL |
-| Tools              | Excel, Git, GitHub, Power BI|
-| Programming        | Java |
-| Other              | Problem Solving, Critical Thinking |
+My skills combine **data analytics**, **software development**, and **project collaboration**, with a particular interest in turning data into useful insights.
+
+| Area | Skills and technologies |
+|:--|:--|
+| **Data Analysis & Visualisation** | Data cleaning, data interpretation, Microsoft Excel, Power Query, Power BI |
+| **Databases & SQL** | SQL, MySQL, PostgreSQL, database design |
+| **Programming & Web Development** | Java, Java Swing, Spring Boot, HTML, CSS, JavaScript, React |
+| **Development Tools & Version Control** | Git, GitHub, VS Code, IntelliJ IDEA, Maven |
+| **Design & Project Management** | Figma, Trello, Agile/Scrum, user stories, product and sprint backlogs |
+| **Professional Skills** | Problem-solving, critical thinking, teamwork, communication, attention to detail |
+
+**Primary focus:** Data analysis, reporting, data visualisation, and practical business insights.
 ## Projects
 
 | Project | Description | Type |
