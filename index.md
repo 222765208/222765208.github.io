@@ -77,11 +77,15 @@ Cape Peninsula University of Technology
 
 
 ## 🎥 Mock Interview Video
--https://github.com/222765208/222765208.github.io/blob/a634a40c85dac58212a6e2c93bcd928462feeafe/Sinazo-Mock%20interview-Video.mp4
 
+This mock interview demonstrates my communication skills, interview preparation and ability to present my experience professionally.
 
+<video controls preload="metadata" playsinline style="width:100%;max-width:820px;border-radius:12px;background:#182b36" aria-label="Sinazo Ntsimbi mock interview video">
+  <source src="/Sinazo-Mock%20interview-Video.mp4" type="video/mp4">
+  Your browser does not support embedded video. <a href="/Sinazo-Mock%20interview-Video.mp4">Open the mock interview video</a>.
+</video>
 
-
+[▶ Watch or download my mock interview video](https://github.com/222765208/222765208.github.io/raw/refs/heads/master/Sinazo-Mock%20interview-Video.mp4)
 
 ## Reflections
 
