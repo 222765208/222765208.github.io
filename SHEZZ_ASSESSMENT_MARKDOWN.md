@@ -153,6 +153,36 @@ These are **proposed sprint assignments** from the supplied document. They shoul
 
 The supplied communication screenshots show WhatsApp discussions used for workplace-project coordination. They are selected as evidence of communication, not as proof of completion of a particular task. Personal contact details should be redacted before publication.
 
+
+
+### Screenshot evidence gallery
+
+**Trello board — Product Backlog and Sprints 1–5**
+
+![Shezz-App Trello board with Product Backlog and Sprint columns](evidence/trello-board.png)
+
+**User stories and acceptance criteria**
+
+![Customer registration and secure login user story](evidence/user-story-registration.png)
+
+![Stylist profile management user story](evidence/user-story-stylist-profile.png)
+
+![Browse salon services user story](evidence/user-story-browse-services.png)
+
+**Sprint 1 — task checklist**
+
+![Sprint 1 registration and authentication tasks](evidence/sprint-1-tasks.png)
+
+**Communication evidence (privacy-redacted copies)**
+
+![WhatsApp communication evidence 1](evidence/communication-1-redacted.jpg)
+
+![WhatsApp communication evidence 2](evidence/communication-2-redacted.jpg)
+
+![WhatsApp communication evidence 3](evidence/communication-3-redacted.jpg)
+
+*The image files must be uploaded to the repository's `evidence/` folder before they render. Screenshots are evidence of the visible board/messages, not independent proof that all tasks were completed.*
+
 ## Evidence gallery — links and records
 
 - **Trello:** [Shezz Salon PP board](https://trello.com/b/2LkNDskU/shezz-app) — backlog and sprint tracking. Add dated screenshots to the repository when available.
