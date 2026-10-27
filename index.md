@@ -321,3 +321,32 @@ The supplied screenshot shows the **BG Capaciti** WhatsApp group discussing whet
 
 ## Overall reflection 
 Shezz-App gave me experience connecting Agile planning to software development and deployment. I worked on technical integration and saw why user experience, frontend implementation and backend behaviour must fit together. The most important lesson was to support each portfolio claim with evidence and to be transparent about planned work versus completed work. My next improvement would be to maintain clearer daily records and collect screenshots and testing results throughout each sprint.
+
+
+### Screenshot evidence gallery
+
+**Trello board — Product Backlog and Sprints 1–5**
+
+![Shezz-App Trello board with Product Backlog and Sprint columns](evidence/trello-board.png)
+
+**User stories and acceptance criteria**
+
+![Customer registration and secure login user story](evidence/user-story-registration.png)
+
+![Stylist profile management user story](evidence/user-story-stylist-profile.png)
+
+![Browse salon services user story](evidence/user-story-browse-services.png)
+
+**Sprint 1 — task checklist**
+
+![Sprint 1 registration and authentication tasks](evidence/sprint-1-tasks.png)
+
+**Communication evidence (privacy-redacted copies)**
+
+![WhatsApp communication evidence 1](evidence/communication-1-redacted.jpg)
+
+![WhatsApp communication evidence 2](evidence/communication-2-redacted.jpg)
+
+![WhatsApp communication evidence 3](evidence/communication-3-redacted.jpg)
+
+*The image files must be uploaded to the repository's `evidence/` folder before they render. Screenshots are evidence of the visible board/messages, not independent proof that all tasks were completed.*
