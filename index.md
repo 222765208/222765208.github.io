@@ -15,12 +15,16 @@ title: Sinazo Ntsimbi | Digital Portfolio
 
 
 
+<a id="about-me"></a>
+
 ## 📌 About Me
 Final-year Diploma in ICT (Applications Development) student seeking Work Integrated Learning (WIL) placement in Data Analysis.
 
 I have a strong foundation in SQL, database design, Power BI and Microsoft Excel. I enjoy transforming raw data into meaningful insights that support decision-making. I am detail-oriented, analytical and eager to grow in a professional environment.
 
 
+
+<a id="technical-skills"></a>
 
 ## 🛠️ Technical Skills
 
@@ -36,12 +40,16 @@ My skills combine **data analytics**, **software development**, and **project co
 | **Professional Skills** | Problem-solving, critical thinking, teamwork, communication, attention to detail |
 
 **Primary focus:** Data analysis, reporting, data visualisation, and practical business insights.
+<a id="projects"></a>
+
 ## Projects
 
 | Project | Description | Type |
 |---|---|---|
 | Student Residence App | Residence management system developed as a group academic project. https://github.com/Sinazo35/StudentResidenceApp.git| Group Project |
 | Grocery Price Analysis | Personal data analysis project exploring grocery price trends. https://github.com/Sinazo35/Grocery-Price-Analysis.git| Personal Project |
+
+<a id="education"></a>
 
 ## 🎓 Education
 
@@ -53,12 +61,16 @@ Zwelinzima S S S, KwaZulu-Natal
 Cape Peninsula University of Technology  
 📅 2022 – Present  
 
+<a id="languages"></a>
+
 ## 🌍 Languages
 
 - English  
 - Zulu  
 - Xhosa  
 
+
+<a id="interests"></a>
 
 ## 🎯 Interests
 
@@ -68,6 +80,8 @@ Cape Peninsula University of Technology
 
 
 
+<a id="contact"></a>
+
 ## 📞 Contact
 
 📧 222765208@mycput.ac.za  
@@ -75,6 +89,8 @@ Cape Peninsula University of Technology
 📍 Cape Town, South Africa  
 
 
+
+<a id="mock-interview"></a>
 
 ## 🎥 Mock Interview Video
 
@@ -86,6 +102,8 @@ This mock interview demonstrates my communication skills, interview preparation 
 </video>
 
 [▶ Watch or download my mock interview video](https://github.com/222765208/222765208.github.io/raw/refs/heads/master/Sinazo-Mock%20interview-Video.mp4)
+
+<a id="reflections"></a>
 
 ## Reflections
 
@@ -141,6 +159,8 @@ I successfully published my portfolio and gained a better understanding of how G
 
 ---
 
+<a id="workplace-project"></a>
+
 ## 💼 Workplace Project — Shezz-App
 
 **Shezz-App** is a workplace-based software development project focused on creating a digital salon booking and customer service platform. The application helps customers browse beauty services, book appointments, upload hairstyle reference pictures and propose prices through a **Make an Offer** feature. It also includes appointment and offer tracking, a demonstration loyalty rewards system, and a mobile-friendly, installable web app experience.
@@ -151,6 +171,8 @@ The project provided an opportunity to apply workplace skills such as Agile plan
 
 
 ---
+
+<a id="agile-assessment"></a>
 
 ## Agile Assessment — Portfolio of Evidence
 
@@ -175,7 +197,20 @@ The project provided an opportunity to apply workplace skills such as Agile plan
 - [Live Shezz-App deployment](https://shezz-app.onrender.com/)
 - [GitHub portfolio](https://222765208.github.io/)
 
+<a id="agile-team-charter"></a>
+
 ## 1. Agile Team Charter
+
+#### Evidence: team communication
+
+The following privacy-redacted WhatsApp screenshots document communication relating to the workplace project. They do not independently verify attendance or completed tasks.
+
+![Communication evidence 1](evidence/communication-1-redacted.jpg)
+
+![Communication evidence 2](evidence/communication-2-redacted.jpg)
+
+![Communication evidence 3](evidence/communication-3-redacted.jpg)
+
 
 ### Evidence — Team purpose and vision
 **Mission:** Develop Shezz-App, a salon service platform that makes it easier for customers to book beauty appointments, submit hairstyle references and price offers, and access loyalty rewards.
@@ -219,7 +254,20 @@ Agile Lead and Product Owner representation are **proposed** and require team co
 
 **Result:** We have a written framework for coordinating the project and reviewing workload. I learned that an agreed charter should be checked against actual contributions and updated when responsibilities change. The team commitment signatures remain unconfirmed.
 
+<a id="user-stories"></a>
+
 ## 2. User Stories and Tasks
+
+#### Evidence: user-story cards and acceptance criteria
+
+![Customer registration user story](evidence/user-story-registration.png)
+
+![Stylist profile user story](evidence/user-story-stylist-profile.png)
+
+![Browse services user story](evidence/user-story-browse-services.png)
+
+These screenshots show the customer registration, stylist profile and service-browsing stories from Trello.
+
 
 ### Evidence — Prioritised user stories
 
@@ -249,7 +297,16 @@ Agile Lead and Product Owner representation are **proposed** and require team co
 
 **Result:** The breakdown provides a clearer plan for implementation and review. I learned to describe what a user needs before deciding how to build it. These task allocations are plans and must not be mistaken for verified completion.
 
+<a id="product-backlog"></a>
+
 ## 3. Product Backlog
+
+#### Evidence: Trello Product Backlog
+
+![Trello board showing product backlog and five sprints](evidence/trello-board.png)
+
+[Open the Shezz-App Trello board](https://trello.com/b/2LkNDskU/shezz-app)
+
 
 ### Evidence
 The 12 prioritised stories above form the Product Backlog. The supplied document's **Taskboard** lists US01–US12 under **Product Backlog**, with **In Progress** and **Completed** left empty. This is a planned backlog, not a claim that all stories were completed.
@@ -265,7 +322,16 @@ The 12 prioritised stories above form the Product Backlog. The supplied document
 
 **Result:** The backlog gives the team a shared overview of intended work. I learned that transparent task status is more useful than marking tasks completed without supporting evidence.
 
+<a id="sprint-backlog"></a>
+
 ## 4. Sprint Backlog
+
+#### Evidence: Sprint 1 task checklist
+
+![Sprint 1 task checklist](evidence/sprint-1-tasks.png)
+
+This screenshot shows task-level breakdown for registration and authentication.
+
 
 ### Evidence — Proposed allocation, 12–16 October 2026
 
@@ -287,6 +353,8 @@ These are **proposed sprint assignments** from the supplied document. They shoul
 **Action:** The supplied sprint plan assigns proposed daily work to Sinazo, Vumani and Aliziwe, from requirements and designs through integration, testing and deployment checks.
 
 **Result:** The plan shows dependencies and where integration could delay other work. I learned to schedule testing and deployment preparation alongside development. The dates and allocations remain proposed until checked against actual work records.
+
+<a id="agile-logbook"></a>
 
 ## 5. Agile Logbook
 
@@ -313,15 +381,7 @@ These are **proposed sprint assignments** from the supplied document. They shoul
 
 **Result:** The logbook provides a structure for reviewing progress, but not yet verified proof of daily activity. I learned to capture dated evidence during each sprint rather than reconstructing it later.
 
-## Communication evidence — WhatsApp group screenshot
-
-The supplied screenshot shows the **BG Capaciti** WhatsApp group discussing whether a salon is an SME on **17 October 2026**. This supports evidence of team communication and business-context discussion, **not** proof of a daily stand-up, a completed sprint task or agreement to the charter.
-
-**Communication screenshot:** A redacted WhatsApp evidence image is being prepared for publication. [Project Trello board](https://trello.com/b/2LkNDskU/shezz-app).
-
-**Privacy note:** The original screenshot includes participants' telephone numbers. A redacted copy must be uploaded at the image path above before this image can appear publicly. Do not upload the unredacted screenshot.
-
-## Evidence gallery — links and records
+## Project links and supporting records
 
 - **Trello:** [Shezz Salon PP board](https://trello.com/b/2LkNDskU/shezz-app) — backlog and sprint tracking. Add dated screenshots to the repository when available.
 - **GitHub:** [Shezz-App repository](https://github.com/Sinazo35/Shezz-App) — source code and commit history.
@@ -330,32 +390,3 @@ The supplied screenshot shows the **BG Capaciti** WhatsApp group discussing whet
 
 ## Overall reflection 
 Shezz-App gave me experience connecting Agile planning to software development and deployment. I worked on technical integration and saw why user experience, frontend implementation and backend behaviour must fit together. The most important lesson was to support each portfolio claim with evidence and to be transparent about planned work versus completed work. My next improvement would be to maintain clearer daily records and collect screenshots and testing results throughout each sprint.
-
-
-### Screenshot evidence gallery
-
-**Trello board — Product Backlog and Sprints 1–5**
-
-![Shezz-App Trello board with Product Backlog and Sprint columns](evidence/trello-board.png)
-
-**User stories and acceptance criteria**
-
-![Customer registration and secure login user story](evidence/user-story-registration.png)
-
-![Stylist profile management user story](evidence/user-story-stylist-profile.png)
-
-![Browse salon services user story](evidence/user-story-browse-services.png)
-
-**Sprint 1 — task checklist**
-
-![Sprint 1 registration and authentication tasks](evidence/sprint-1-tasks.png)
-
-**Communication evidence (privacy-redacted copies)**
-
-![WhatsApp communication evidence 1](evidence/communication-1-redacted.jpg)
-
-![WhatsApp communication evidence 2](evidence/communication-2-redacted.jpg)
-
-![WhatsApp communication evidence 3](evidence/communication-3-redacted.jpg)
-
-*The image files must be uploaded to the repository's `evidence/` folder before they render. Screenshots are evidence of the visible board/messages, not independent proof that all tasks were completed.*
