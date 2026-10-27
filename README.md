@@ -162,4 +162,14 @@ The full Markdown document contains the evidence and reflections as readable tex
 - [Trello project board](https://trello.com/b/DmrNiPvG/shezz-salon-pp)
 - [Live deployment on Render](https://shezz-app.onrender.com/)
 
-**Supporting Word documents:** The completed Team Charter and Product Backlog/Agile Logbook still need to be uploaded as files to the repository before document download links can be enabled.
+
+
+### Supporting Agile documents — Read online or download
+
+| Document | Read online | Download Markdown |
+|---|---|---|
+| Completed Agile Team Charter | [View Team Charter](documents/Shezz-App-Agile-Team-Charter.md) | [Download charter](https://raw.githubusercontent.com/222765208/222765208.github.io/master/documents/Shezz-App-Agile-Team-Charter.md) |
+| Agile Logbook, Product Backlog and Sprint Tasks | [View Agile Logbook](documents/Shezz-App-Agile-Logbook-and-Backlog.md) | [Download logbook](https://raw.githubusercontent.com/222765208/222765208.github.io/master/documents/Shezz-App-Agile-Logbook-and-Backlog.md) |
+
+*These are Markdown document copies of the supplied Word files. They are not DOCX downloads. The logbook includes draft entries requiring verification.*
+
