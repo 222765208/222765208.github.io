@@ -3,6 +3,9 @@
 
 > The source document explicitly labels daily logbook entries as drafts for confirmation. Do not present these as verified attendance or completed work.
 
+## Updated Trello board
+[Shezz-App board](https://trello.com/b/2LkNDskU/shezz-app) — Product Backlog and Sprints 1–5. Screenshot evidence includes customer registration, stylist profiles, browsing salon services and the Sprint 1 checklist.
+
 ## Product Backlog / Taskboard
 The source taskboard lists all stories under **Product Backlog**, leaving **In Progress** and **Completed** blank.
 
