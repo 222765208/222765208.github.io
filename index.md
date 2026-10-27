@@ -145,6 +145,16 @@ The project provided an opportunity to apply workplace skills such as Agile plan
 
 ## Agile Assessment — Portfolio of Evidence
 
+### Supporting Agile documents — Read online or download
+
+| Document | Read online | Download Markdown |
+|---|---|---|
+| Completed Agile Team Charter | [View Team Charter](documents/Shezz-App-Agile-Team-Charter.md) | [Download charter](https://raw.githubusercontent.com/222765208/222765208.github.io/master/documents/Shezz-App-Agile-Team-Charter.md) |
+| Agile Logbook, Product Backlog and Sprint Tasks | [View Agile Logbook](documents/Shezz-App-Agile-Logbook-and-Backlog.md) | [Download logbook](https://raw.githubusercontent.com/222765208/222765208.github.io/master/documents/Shezz-App-Agile-Logbook-and-Backlog.md) |
+
+*These are Markdown document copies of the supplied Word files. They are not DOCX downloads. The logbook includes draft entries requiring verification.*
+
+
 **Student:** Sinazo Ntsimbi · **Student number:** 222765208 · **Assessment:** PRP370/371/372S, October 2026
 
 > This is an individual portfolio of evidence for a team project. Proposed tasks and draft stand-up notes are not evidence of completed work. Confirm all draft entries against Trello, GitHub and dated records before submission.
