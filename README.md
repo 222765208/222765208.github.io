@@ -128,6 +128,14 @@ I successfully published my portfolio and gained a better understanding of how G
 
 ---
 
+## 💼 Workplace Project — Shezz-App
+
+**Shezz-App** is a workplace-based software development project focused on creating a digital salon booking and customer service platform. The application helps customers browse beauty services, book appointments, upload hairstyle reference pictures and propose prices through a **Make an Offer** feature. It also includes appointment and offer tracking, a demonstration loyalty rewards system, and a mobile-friendly, installable web app experience.
+
+The project provided an opportunity to apply workplace skills such as Agile planning, teamwork, communication, UI/UX design, frontend and backend development, testing, and deployment. Our three-member team included **Sinazo Ntsimbi (Software Developer)**, **Vumani Kamanga (Frontend Developer)**, and **Aliziwe Ncoko (UI/UX Designer)**. My technical contribution included application integration, testing, troubleshooting and deployment.
+
+**Project links:** [Live Shezz-App](https://shezz-app.onrender.com/) · [Source code](https://github.com/Sinazo35/Shezz-App) · [Trello board](https://trello.com/b/DmrNiPvG/shezz-salon-pp)
+
 ## 📘 Shezz-App — Agile Assessment 2 (October 2026)
 
 **Project:** [Shezz-App](https://github.com/Sinazo35/Shezz-App) · **Trello:** [Sprint and Product Backlog](https://trello.com/b/DmrNiPvG/shezz-salon-pp) · **Deployment:** [Live Application](https://shezz-app.onrender.com/)
