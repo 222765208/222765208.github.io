@@ -7,7 +7,7 @@
 ## Evidence and project links
 
 - [Shezz-App source code](https://github.com/Sinazo35/Shezz-App)
-- [Trello board](https://trello.com/b/DmrNiPvG/shezz-salon-pp)
+- [Trello board](https://trello.com/b/2LkNDskU/shezz-app)
 - [Live Shezz-App deployment](https://shezz-app.onrender.com/)
 - [GitHub portfolio](https://222765208.github.io/)
 
@@ -46,7 +46,7 @@ Agile Lead and Product Owner representation are **proposed** and require team co
 
 **Commitment:** Signatures/agreements for Sinazo Ntsimbi, Vumani Kamanga and Aliziwe Ncoko remain pending confirmation.
 
-### Personal reflection — Team Charter (draft for review)
+### Personal reflection — Team Charter 
 **Situation:** Our three-member team needed a shared understanding of responsibilities while developing Shezz-App.
 
 **Task:** I needed to clarify how my software-development responsibilities would connect with Vumani's frontend work and Aliziwe's UI/UX work.
@@ -76,7 +76,7 @@ Agile Lead and Product Owner representation are **proposed** and require team co
 
 **Task breakdown:** Sinazo — backend logic, database, API integration, testing and deployment; Vumani — forms, service cards, status screens and responsive PWA frontend; Aliziwe — wireframes, layouts, usability, accessibility and visual checks.
 
-### Personal reflection — User Stories and Tasks (draft for review)
+### Personal reflection — User Stories and Tasks 
 **Situation:** Shezz-App had several connected customer features, including bookings, hairstyle offers and loyalty rewards.
 
 **Task:** I needed to translate those features into understandable user requirements and technical tasks.
@@ -92,7 +92,7 @@ The 12 prioritised stories above form the Product Backlog. The supplied document
 
 **Acceptance criteria:** Booking must handle valid and unavailable slots; offers must capture a photo and proposed price and display a stylist response; only verified completed visits count toward demo loyalty rewards; key screens must work on mobile; release requires integration tests, documentation and deployment checks.
 
-### Personal reflection — Product Backlog (draft for review)
+### Personal reflection — Product Backlog 
 **Situation:** We needed a way to organise all required features without losing track of unfinished work.
 
 **Task:** My task was to help keep development requirements visible and prioritised.
@@ -115,7 +115,7 @@ The 12 prioritised stories above form the Product Backlog. The supplied document
 
 These are **proposed sprint assignments** from the supplied document. They should not be presented as completed without corroboration.
 
-### Personal reflection — Sprint Backlog (draft for review)
+### Personal reflection — Sprint Backlog 
 **Situation:** The team needed to plan coordinated work during 12–16 October 2026.
 
 **Task:** We needed a daily division of tasks across software development, frontend and UI/UX.
@@ -140,7 +140,7 @@ These are **proposed sprint assignments** from the supplied document. They shoul
 
 **Walkthrough questions:** What is needed to advance the work? Prioritise booking and offers, connect design to frontend/backend tasks and test the customer journey. Is untracked work happening? Compare WhatsApp updates to Trello cards. What remains? Integration, responsive testing, deployment checks and screenshots. What blocks progress? Potential API/database configuration, integration, device compatibility and time limitations.
 
-### Personal reflection — Agile Logbook (draft for review)
+### Personal reflection — Agile Logbook 
 **Situation:** Our project required regular progress tracking and early identification of obstacles.
 
 **Task:** I needed to document what was completed, what would happen next and any blockers.
@@ -151,18 +151,14 @@ These are **proposed sprint assignments** from the supplied document. They shoul
 
 ## Communication evidence — WhatsApp group screenshot
 
-The supplied screenshot shows the **BG Capaciti** WhatsApp group discussing whether a salon is an SME on **17 October 2026**. This supports evidence of team communication and business-context discussion, **not** proof of a daily stand-up, a completed sprint task or agreement to the charter.
-
-![WhatsApp group communication evidence — redacted screenshot](evidence/communication-whatsapp-redacted.png)
-
-**Privacy note:** The original screenshot includes participants' telephone numbers. A redacted copy must be uploaded at the image path above before this image can appear publicly. Do not upload the unredacted screenshot.
+The supplied communication screenshots show WhatsApp discussions used for workplace-project coordination. They are selected as evidence of communication, not as proof of completion of a particular task. Personal contact details should be redacted before publication.
 
 ## Evidence gallery — links and records
 
-- **Trello:** [Shezz Salon PP board](https://trello.com/b/DmrNiPvG/shezz-salon-pp) — backlog and sprint tracking. Add dated screenshots to the repository when available.
+- **Trello:** [Shezz Salon PP board](https://trello.com/b/2LkNDskU/shezz-app) — backlog and sprint tracking. Add dated screenshots to the repository when available.
 - **GitHub:** [Shezz-App repository](https://github.com/Sinazo35/Shezz-App) — source code and commit history.
 - **Deployment:** [Shezz-App on Render](https://shezz-app.onrender.com/) — deployment URL; a screenshot of the Render dashboard was supplied for the portfolio and should be uploaded with private details redacted.
 - **Documents:** The original completed charter and product backlog/logbook Word files should be uploaded to a `documents/` folder for download links.
 
-## Overall reflection (draft for review)
+## Overall reflection 
 Shezz-App gave me experience connecting Agile planning to software development and deployment. I worked on technical integration and saw why user experience, frontend implementation and backend behaviour must fit together. The most important lesson was to support each portfolio claim with evidence and to be transparent about planned work versus completed work. My next improvement would be to maintain clearer daily records and collect screenshots and testing results throughout each sprint.
