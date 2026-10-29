@@ -146,6 +146,6 @@ During my Work Integrated Learning at Capaciti, my team of three built **Shezz-A
 
 | Resource | Link |
 |:--|:--|
-| 📁 Agile Portfolio (evidence + reflections) | [222765208.github.io/shezz-app-wil](https://222765208.github.io/shezz-app-wil/) |
+| 📁 Agile Portfolio (evidence + reflections) | [222765208.github.io/shezz-app-wil](https://222765208.github.io/#wil) |
 | 📋 Trello board | [Shezz-App on Trello](https://trello.com/b/2LkNDskU/shezz-app) |
 | 🌐 Live app | [shezz-app.onrender.com](https://shezz-app.onrender.com) |
