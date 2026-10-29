@@ -6,7 +6,8 @@
 <p align="center">
   <a href="mailto:222765208@mycput.ac.za">Email</a> •
   <a href="https://linkedin.com/in/sinazo-ntsimbi-729510247">LinkedIn</a> •
-  <a href="https://github.com/Sinazo35">GitHub</a>
+  <a href="https://github.com/Sinazo35">GitHub</a> •
+  <a href="https://222765208.github.io/shezz-app-wil/">Agile Portfolio</a>
 </p>
 
 
@@ -38,6 +39,17 @@ My skills combine **data analytics**, **software development**, and **project co
 |---|---|---|
 | Student Residence App | Residence management system developed as a group academic project. https://github.com/Sinazo35/StudentResidenceApp.git| Group Project |
 | Grocery Price Analysis | Personal data analysis project exploring grocery price trends. https://github.com/Sinazo35/Grocery-Price-Analysis.git| Personal Project |
+| Shezz-App (WIL at Capaciti) | Salon booking, offers and loyalty-rewards app built in an Agile team of three; documented in my [Agile Portfolio](https://222765208.github.io/shezz-app-wil/). Live: https://shezz-app.onrender.com | Group Project (WIL) |
+
+## 🧩 Agile Project Portfolio: Shezz-App (WIL at Capaciti)
+
+During my Work Integrated Learning at Capaciti, my team of three built **Shezz-App**, a salon platform for booking appointments, sending hairstyle offers and earning loyalty rewards. My Agile portfolio shows screenshot evidence and STAR reflections for the Agile Team Charter, User Stories and Tasks, Product Backlog, Sprint Backlog and Agile Logbook.
+
+| Resource | Link |
+|:--|:--|
+| 📁 Agile Portfolio (evidence + reflections) | [222765208.github.io/shezz-app-wil](https://222765208.github.io/shezz-app-wil/) |
+| 📋 Trello board | [Shezz-App on Trello](https://trello.com/b/2LkNDskU/shezz-app) |
+| 🌐 Live app | [shezz-app.onrender.com](https://shezz-app.onrender.com) |
 
 ## 🎓 Education
 
@@ -132,6 +144,3 @@ At first, I wasn’t completely sure how GitHub Pages works but I followed the s
 
 **Result:**  
 I successfully published my portfolio and gained a better understanding of how GitHub Pages works. It felt rewarding to see my work live online and I now feel more confident using GitHub to showcase my projects.
-
-
-
