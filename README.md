@@ -1,4 +1,12 @@
-# 222765208.github.io
+# Sinazo Ntsimbi — Portfolio Repository
+
+<p align="center">
+  <a href="https://222765208.github.io/"><strong>🌐 OPEN THE LIVE DEPLOYED PORTFOLIO</strong></a>
+  &nbsp; • &nbsp;
+  <a href="https://222765208.github.io/shezz-app-wil/"><strong>📋 VIEW CAPACITI WIL / SHEZZ-APP ASSESSMENT</strong></a>
+</p>
+
+> This README documents the repository. The deployed website is published separately through GitHub Pages. Use the live portfolio link above to view the HTML website; changes to this README do not automatically change the website's design or content.
 
 <h1 align="center">👩‍💻 Sinazo Ntsimbi</h1>
 <h3 align="center">Aspiring Data Analyst | ICT Applications Development Student</h3>
